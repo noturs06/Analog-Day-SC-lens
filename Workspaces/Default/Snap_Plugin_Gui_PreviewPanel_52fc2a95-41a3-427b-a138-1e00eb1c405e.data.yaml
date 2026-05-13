@@ -1,6 +1,6 @@
 data:
   cameraToMultimedia:
-    - Front: "C:/Users/kbas1/Downloads/cats.jpg"
+    - Front: "C:/Users/kbas1/Downloads/cat.jpg"
     - Back: PreviewResources.bundle/Video/World/Beach.mp4
   cameraType: Perspective
   deviceName: No Simulation
@@ -12,7 +12,7 @@ data:
   inputSourceData:
     type: Multimedia
     input:
-      source: "C:/Users/kbas1/Downloads/cats.jpg"
+      source: "C:/Users/kbas1/Downloads/cat.jpg"
       upscale: 1280
     cameraView: Front
   interactiveAspect: 1.000000

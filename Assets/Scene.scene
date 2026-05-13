@@ -2551,9 +2551,9 @@
     Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
     HasSegmentScaleCompensation: false
   Children:
+    - !<own> cbc4df5c-6748-4446-932b-a18640777c7d
     - !<own> afdebf7d-50ae-451b-bed1-896599a53be8
     - !<own> a9163e97-470e-4677-91d1-097995ee9cf3
-    - !<own> cbc4df5c-6748-4446-932b-a18640777c7d
     - !<own> a2468a8a-0366-4a7a-b6cc-085e4ffa184d
     - !<own> 6d27e9c3-8a21-4a5f-ad82-0b75e43ea88c
     - !<own> 34eb5a8b-11c2-4f38-abed-3dab93b872cb
